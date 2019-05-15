@@ -18,7 +18,7 @@
     </properties>
 
     <dependencies>
-        <!-- do branch 2.0.2 https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
+        <!-- do branch 2.0.2.3 https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
